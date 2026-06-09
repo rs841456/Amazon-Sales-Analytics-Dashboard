@@ -155,9 +155,8 @@ YoY Sales Growth =
 
 ## 👤 Author
 
-**[Your Name]**  
-📧 [your.email@example.com]  
-🔗 [LinkedIn Profile](https://linkedin.com)  
+**Rajan Kumar**  
+📧 rs8595984@gmail.com    
 💻 [GitHub Profile](https://github.com/rs841456)
 
 ---
